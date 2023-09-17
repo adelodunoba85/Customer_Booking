@@ -38,7 +38,7 @@ After model training, I evaluated its performance using cross-validation and rel
 I created a visualization to interpret how each variable contributes to the model's predictive capabilities.
 I summarized the key findings on a single presentation slide, adhering to the provided PowerPoint Template.
 
-### XAi implementation
+### XAi Implementation
 
 Implementing Local Interpretable Model-agnostic Explanations (LIME) and SHapley Additive exPlanations (SHAP) is a powerful way to explain predictions made by machine learning models. These techniques provide insights into why a model makes specific predictions for individual data points
 
